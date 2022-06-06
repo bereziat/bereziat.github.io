@@ -1,5 +1,5 @@
 My web site ...
-See also https://lip6.fr/dominique.bereziat
+See also <https://lip6.fr/dominique.bereziat>
 
 # Header 1
 
