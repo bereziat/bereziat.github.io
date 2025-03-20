@@ -1,4 +1,4 @@
-# theme: jekyll-theme-minimal
-theme: bulma-clean-theme
+theme: jekyll-theme-minimal
+# theme: bulma-clean-theme # marche pas, ce theme n'est pas installé. 
 title: Dominique Béréziat's homepage
 
